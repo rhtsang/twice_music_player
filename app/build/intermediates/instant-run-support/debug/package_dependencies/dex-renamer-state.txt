@@ -1,0 +1,4 @@
+#Mon Dec 25 00:31:58 PST 2017
+base.0=/Users/RaymondTsang/AndroidStudioProjects/TwiceMusicPlayer/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
